@@ -3,4 +3,6 @@
 Halo! Aku Dawi.
 Ini tempatku belajar Python dari nol.
 
-File pertamaku: hitung_mod.py
+File file:
+    -hitung_mod.py
+    -dna_project.py
