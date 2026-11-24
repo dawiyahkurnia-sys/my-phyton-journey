@@ -6,3 +6,4 @@ Ini tempatku belajar Python dari nol.
 File file:
 -[hitung_mod.py](hitung_mod.py)
 -[dna_project.py](dna_project.py)
+-[lyrics_animation.py]
